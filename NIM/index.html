@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>NIM</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <h1>NIM</h1>
+
+    <p>Jogador atual: <span id="jogador-atual">1</span></p>
+    <p>Palitos restantes: <span id="palitos-restantes">20</span></p>
+
+    <div id="tabuleiro">
+      <!-- Espaço para os palitos -->
+    </div>
+
+    <label for="num-palitos">Número de palitos a serem removidos (1-3):</label>
+    <input type="number" id="num-palitos" min="1" max="3">
+
+    <button id="jogar-btn">Jogar</button>
+    <button id="jogar-novamente-btn" style="display:none;">Jogar Novamente</button>
+
+    <script src="js/script.js"></script>
+  </body>
+</html>

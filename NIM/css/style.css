@@ -1,0 +1,7 @@
+.palito {
+	width: 10px;
+	height: 100px;
+	background-color: brown;
+	display: inline-block;
+	margin: 0 5px;
+  }
