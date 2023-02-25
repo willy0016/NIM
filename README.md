@@ -5,11 +5,10 @@ Este é um jogo matemático de estratégia simples, normalmente jogado com pedra
 ## Sumário
 
 - Descrição
-- Como jogar
-- Tecnologias utilizadas
-- Como executar
-- Funcionalidades adicionais
-- Limitações
+- Link para a página do jogo
+- Regras do jogo
+- Como Jogar
+- Créditos
 
 ## Descrição
 
